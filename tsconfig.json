@@ -12,5 +12,6 @@
     "moduleResolution": "Node",
     "esModuleInterop": true,
     "module": "CommonJS"
-  }
+  },
+  "exclude": ["./prisma/seed.ts"]
 }
